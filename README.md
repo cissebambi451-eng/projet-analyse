@@ -19,7 +19,6 @@ nuitées dans deux hôtels (un hôtel de ville et un hôtel de villégiature) ?
 
 ## Ordre des notebooks
 
-
 À exécuter dans cet ordre (le 02 crée le fichier nettoyé lu par le 03) :
 
 1. `notebooks/01_chargement.ipynb` : chargement des données et premier contrôle (types, valeurs manquantes)
@@ -34,7 +33,7 @@ Après nettoyage : **86 626 réservations**, 33 colonnes.
 - **Q2 :** mai est le mois le plus chargé (en moyenne par an), mais août est le plus cher (152 € par nuit contre 71 € en janvier).
 - **Q3 :** plus le délai de réservation est long, plus le taux d'annulation monte, de 8,5 % (moins d'une semaine) à 41,0 % (plus d'un an).
 - **Q4 :** les agences en ligne (118,9 €) et la vente directe (118,1 €) rapportent le plus par nuit.
-- **Q5 :** le Portugal fait environ 31 % des réservations et ses clients sont les plus fidèles (9,9 % déjà venus, contre moins de 1,2 % pour les autres pays du top 10).
+- **Q5 :** le Portugal fait environ 31 % des réservations et ses clients sont les plus fidèles (9,9 % déjà venus, contre 0,4 % à 1,2 % pour les autres pays du top 10).
 
 ![Taux d'annulation par hôtel](figures/q1_annulation_hotel.png)
 ![Saisonnalité des réservations et des prix](figures/q2_saisonnalite.png)
