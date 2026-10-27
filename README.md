@@ -18,7 +18,7 @@ nuitées dans deux hôtels (un hôtel de ville et un hôtel de villégiature) ?
 3. Installer les outils : `pip install -r requirements.txt`
 
 ## Ordre des notebooks
-## Ordre des notebooks
+
 
 À exécuter dans cet ordre (le 02 crée le fichier nettoyé lu par le 03) :
 
